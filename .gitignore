@@ -1,0 +1,7 @@
+node_modules
+plugins
+platforms
+www
+typings
+.vscode
+*.env
